@@ -1,5 +1,5 @@
 .vscode
 
-note.out
+*.out
 
 *.txt
