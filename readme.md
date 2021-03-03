@@ -4,6 +4,10 @@
 
 ### Built in C++
 
-#### Run
+#### Run - Windows
+
+```g++ -o memopad.exe memopad.cpp && ./memopad.exe```
+
+#### Run - MacOS / Linux
 
 ```g++ -o memopad.out memopad.cpp && ./memopad.out```
